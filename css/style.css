@@ -102,12 +102,8 @@ textarea, input[type='password'], input[type='text'] {
 .header{
     display: flex;
     align-items: center;
-    justify-content: center;
-}
-.header{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    padding: 4px 0;
 }
 .logos{
     width: 2.5rem;
