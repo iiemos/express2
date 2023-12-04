@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Arrow" stroke="#333333">
+            <g transform="translate(4.000000, 6.000000)">
+                <polyline id="Rectangle-8" transform="translate(9.656854, 5.656854) rotate(135.000000) translate(-9.656854, -5.656854) " points="5.65685369 9.65685398 5.65685369 1.65685398 13.6568536 1.65685398"></polyline>
+                <path d="M0.5,5.5 L14.6172428,5.5" id="Line-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

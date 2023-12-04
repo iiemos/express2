@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Track Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="CPC_Homepage_desktop_Jan02" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-271.000000, -544.000000)">
+        <g id="Group-2" transform="translate(272.000000, 541.000000)" stroke="#333333">
+            <g id="Track-Copy-2" transform="translate(0.000000, 4.000000)">
+                <g id="track">
+                    <ellipse id="Oval" stroke-linecap="round" stroke-linejoin="round" cx="18" cy="18" rx="15.1826087" ry="15.3391304"></ellipse>
+                    <polygon id="Shape" points="23.0086957 14.8695652 22.0695652 11.8956522 13.9304348 11.8956522 12.8347826 14.8695652"></polygon>
+                    <path d="M12.8347826,14.8695652 L23.0086957,14.8695652" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <polygon id="Shape" stroke-linecap="round" stroke-linejoin="round" points="23.0086957 14.8695652 21.9130435 11.7391304 13.9304348 11.7391304 12.8347826 14.8695652 12.8347826 23.6347826 23.0086957 23.6347826"></polygon>
+                    <path d="M0.469565217,18.3130435 L5.16521739,18.3130435" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M30.8347826,18.3130435 L35.5304348,18.3130435" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M18,35.5304348 L18,30.8347826" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M18,5.16521739 L18,0.469565217" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

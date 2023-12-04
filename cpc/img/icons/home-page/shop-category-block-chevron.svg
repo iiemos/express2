@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="309px" height="112px" viewBox="0 0 309 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 10 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="49.9988073%" x2="99.9996056%" y2="49.9988073%" id="linearGradient-1">
+            <stop stop-color="#ED2130" offset="0%"></stop>
+            <stop stop-color="#A82037" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="49.9998017%" x2="100.000162%" y2="49.9998017%" id="linearGradient-2">
+            <stop stop-color="#F0F0F1" offset="0%"></stop>
+            <stop stop-color="#D7D8DA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="49.9998017%" x2="99.9998976%" y2="49.9998017%" id="linearGradient-3">
+            <stop stop-color="#007FC4" offset="0%"></stop>
+            <stop stop-color="#282561" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Estore_Component_Page-Copy" transform="translate(-1252.000000, -2204.000000)">
+            <g id="Group-10-Copy-2" transform="translate(1252.000000, 2204.000000)">
+                <path d="M231.999693,80.0114463 C216.836685,80.0953857 210.264642,83.1477286 203.38829,89.1125154 L203.38829,89.1125154 L180,112 L256.384018,112 C258.266129,112 260.011428,111.952943 261.650603,111.867732 L261.650603,111.867732 C274.881635,111.12118 280.754279,107.488892 287.70479,101.025555 L287.70479,101.025555 C289.150896,99.6787091 309,80 309,80 L309,80 C309,80 275.724237,80.0114463 231.999693,80.0114463" id="Fill-1-Copy-27" fill="url(#linearGradient-1)"></path>
+                <path d="M156.534319,0.0211040897 C128.676701,0.175867414 116.602482,5.80362466 103.969185,16.8012003 L103.969185,16.8012003 L61,59 L201.333429,59 C204.79126,59 207.99774,58.9132387 211.009248,58.7561305 L211.009248,58.7561305 C235.317422,57.3796749 246.106699,50.6826438 258.876243,38.7658678 L258.876243,38.7658678 C261.533041,36.2826199 298,0 298,0 L298,0 C298,0 236.865459,0.0211040897 156.534319,0.0211040897" id="Fill-1-Copy-29" fill="url(#linearGradient-2)"></path>
+                <path d="M51.9996927,44.0114463 C36.8366851,44.0953857 30.264642,47.1477286 23.3882903,53.1125154 L23.3882903,53.1125154 L0,76 L76.3840184,76 C78.2661288,76 80.0114282,75.952943 81.6506031,75.8677318 L81.6506031,75.8677318 C94.8816346,75.1211796 100.754279,71.4888915 107.70479,65.0255554 L107.70479,65.0255554 C109.150896,63.6787091 129,44 129,44 L129,44 C129,44 95.724237,44.0114463 51.9996927,44.0114463" id="Fill-1-Copy-28" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

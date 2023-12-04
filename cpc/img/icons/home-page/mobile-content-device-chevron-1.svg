@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1339px" height="345px" viewBox="0 0 1339 345" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Mobile_section_background_chevron</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#E4E4E4" offset="0%"></stop>
+            <stop stop-color="#E5E3E2" offset="44%"></stop>
+            <stop stop-color="#D2D3D3" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.322293931">
+        <g id="Estore_Component_Page-Copy-2" transform="translate(-180.000000, -3162.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Mobile_section_background_chevron" transform="translate(180.000000, 3162.000000)">
+                <path d="M539.76737,0 C382.36287,0.959856916 314.145406,33.8692369 242.875409,98.1796502 L0,345 L792.862127,345 C812.371791,345 830.554267,345 847.542274,343.628776 C984.906235,335.538553 1045.82416,296.458665 1118.02319,226.663355 C1133.02042,212.128378 1339,0 1339,0 L539.76737,0 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
